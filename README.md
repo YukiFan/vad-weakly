@@ -37,17 +37,3 @@ python test.py
 **Result on XD-violence**
 
 <img src="https://github.com/YukiFan/vad-weakly/blob/main/xd.png" width="50%">
-
-## Citation
-If you find our code or paper useful, please consider citing:
-
-```
-@article{fan2023weakly,
-  title={Weakly-Supervised Video Anomaly Detection with Snippet Anomalous Attention},
-  author={Fan, Yidan and Yu, Yongxin and Lu, Wenhuan and Han, Yahong},
-  journal={arXiv preprint arXiv:2309.16309},
-  year={2023}
-}
-```
-
-
